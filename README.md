@@ -1,1 +1,1 @@
-# This repository is created for EDA_Projects
+# This repository is created for Data Analysis Project with Python, SQL and Tableau
